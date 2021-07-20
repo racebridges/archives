@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>EVENT ARCHIVES &#8211; RaceBridges Studio</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Seeking to Build Bridges</description>
+	<lastBuildDate>Mon, 30 Sep 2019 20:15:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>COR (Catholic Schools Opposing Racism)</title>
+		<link>./../../../cor-catholic-schools-opposing-racism/index.html</link>
+		
+		<dc:creator><![CDATA[ecldi]]></dc:creator>
+		<pubDate>Thu, 19 Sep 2019 18:03:27 +0000</pubDate>
+				<category><![CDATA[EVENT ARCHIVES]]></category>
+		<guid isPermaLink="false">./../../../staging/index.html?p=2932</guid>
+
+					<description><![CDATA[COR (Catholic Schools Opposing Racism) which was a program for catholic high school students from across the suburbs and city of Chicago. Browse the outlines of these programs, themes and gatherings. Be creative and adapt these ideas for your own school or organization. Programs 2000-2006 Read More … Read More… Read More… Read More… The [...]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>JustStories Events</title>
+		<link>./../../../juststories-events/index.html</link>
+		
+		<dc:creator><![CDATA[ecldi]]></dc:creator>
+		<pubDate>Thu, 19 Sep 2019 18:30:46 +0000</pubDate>
+				<category><![CDATA[EVENT ARCHIVES]]></category>
+		<guid isPermaLink="false">./../../../staging/index.html?p=2978</guid>
+
+					<description><![CDATA[The JustStories Storytelling Festival was produced for ten years in the Chicago area. Professional storytellers led audiences of schools students, teachers and adults in powerful stories about race and diversity. Facilitation among the audience were an important part of these gatherings. Organization of this project was by interfaith and local schools and agencies in Chicago [...]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The BridgeBuilder Event</title>
+		<link>./../../../the-bridgebuilder-event/index.html</link>
+		
+		<dc:creator><![CDATA[ecldi]]></dc:creator>
+		<pubDate>Mon, 30 Sep 2019 19:51:26 +0000</pubDate>
+				<category><![CDATA[EVENT ARCHIVES]]></category>
+		<guid isPermaLink="false">./../../../staging/index.html?p=3790</guid>
+
+					<description><![CDATA[About the BridgeBuilder Project and Mission Past Events 2004-2008 2016 About Us Future Ideas]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
